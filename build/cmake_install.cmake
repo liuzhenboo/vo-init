@@ -1,4 +1,4 @@
-# Install script for directory: /home/lzb/Desktop/gitee/ORB-MVO
+# Install script for directory: /home/lzb/Desktop/github/Public/vo-init
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/lzb/Desktop/gitee/ORB-MVO/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/lzb/Desktop/github/Public/vo-init/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

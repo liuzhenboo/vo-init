@@ -9,7 +9,7 @@ CMakeFiles/mono_tum.dir/Examples/Monocular/mono_tum.cpp.o
  ../include/ORBextractor.h
  ../include/System.h
  ../include/Tracking.h
- /home/lzb/Desktop/gitee/ORB-MVO/Examples/Monocular/mono_tum.cpp
+ /home/lzb/Desktop/github/Public/vo-init/Examples/Monocular/mono_tum.cpp
  /usr/local/include/opencv/cv.h
  /usr/local/include/opencv/cxcore.h
  /usr/local/include/opencv2/calib3d.hpp

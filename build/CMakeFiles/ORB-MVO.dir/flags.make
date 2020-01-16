@@ -6,5 +6,5 @@ CXX_FLAGS =   -Wall -msse3 -std=c++11 -pthread -O3 -march=native -Wno-deprecated
 
 CXX_DEFINES = -DCOMPILEDWITHC11 -DORB_MVO_EXPORTS
 
-CXX_INCLUDES = -I/home/lzb/Desktop/gitee/ORB-MVO -I/home/lzb/Desktop/gitee/ORB-MVO/include -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv 
+CXX_INCLUDES = -I/home/lzb/Desktop/github/Public/vo-init -I/home/lzb/Desktop/github/Public/vo-init/include -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv 
 

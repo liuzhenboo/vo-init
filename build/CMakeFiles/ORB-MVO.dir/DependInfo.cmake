@@ -4,13 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/lzb/Desktop/gitee/ORB-MVO/src/Converter.cpp" "/home/lzb/Desktop/gitee/ORB-MVO/build/CMakeFiles/ORB-MVO.dir/src/Converter.cpp.o"
-  "/home/lzb/Desktop/gitee/ORB-MVO/src/Frame.cpp" "/home/lzb/Desktop/gitee/ORB-MVO/build/CMakeFiles/ORB-MVO.dir/src/Frame.cpp.o"
-  "/home/lzb/Desktop/gitee/ORB-MVO/src/Initializer.cpp" "/home/lzb/Desktop/gitee/ORB-MVO/build/CMakeFiles/ORB-MVO.dir/src/Initializer.cpp.o"
-  "/home/lzb/Desktop/gitee/ORB-MVO/src/ORBextractor.cpp" "/home/lzb/Desktop/gitee/ORB-MVO/build/CMakeFiles/ORB-MVO.dir/src/ORBextractor.cpp.o"
-  "/home/lzb/Desktop/gitee/ORB-MVO/src/ORBmatcher.cpp" "/home/lzb/Desktop/gitee/ORB-MVO/build/CMakeFiles/ORB-MVO.dir/src/ORBmatcher.cpp.o"
-  "/home/lzb/Desktop/gitee/ORB-MVO/src/System.cpp" "/home/lzb/Desktop/gitee/ORB-MVO/build/CMakeFiles/ORB-MVO.dir/src/System.cpp.o"
-  "/home/lzb/Desktop/gitee/ORB-MVO/src/Tracking.cpp" "/home/lzb/Desktop/gitee/ORB-MVO/build/CMakeFiles/ORB-MVO.dir/src/Tracking.cpp.o"
+  "/home/lzb/Desktop/github/Public/vo-init/src/Converter.cpp" "/home/lzb/Desktop/github/Public/vo-init/build/CMakeFiles/ORB-MVO.dir/src/Converter.cpp.o"
+  "/home/lzb/Desktop/github/Public/vo-init/src/Frame.cpp" "/home/lzb/Desktop/github/Public/vo-init/build/CMakeFiles/ORB-MVO.dir/src/Frame.cpp.o"
+  "/home/lzb/Desktop/github/Public/vo-init/src/Initializer.cpp" "/home/lzb/Desktop/github/Public/vo-init/build/CMakeFiles/ORB-MVO.dir/src/Initializer.cpp.o"
+  "/home/lzb/Desktop/github/Public/vo-init/src/ORBextractor.cpp" "/home/lzb/Desktop/github/Public/vo-init/build/CMakeFiles/ORB-MVO.dir/src/ORBextractor.cpp.o"
+  "/home/lzb/Desktop/github/Public/vo-init/src/ORBmatcher.cpp" "/home/lzb/Desktop/github/Public/vo-init/build/CMakeFiles/ORB-MVO.dir/src/ORBmatcher.cpp.o"
+  "/home/lzb/Desktop/github/Public/vo-init/src/System.cpp" "/home/lzb/Desktop/github/Public/vo-init/build/CMakeFiles/ORB-MVO.dir/src/System.cpp.o"
+  "/home/lzb/Desktop/github/Public/vo-init/src/Tracking.cpp" "/home/lzb/Desktop/github/Public/vo-init/build/CMakeFiles/ORB-MVO.dir/src/Tracking.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

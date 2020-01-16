@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/lzb/Desktop/gitee/ORB-MVO
+CMAKE_SOURCE_DIR = /home/lzb/Desktop/github/Public/vo-init
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/lzb/Desktop/gitee/ORB-MVO/build
+CMAKE_BINARY_DIR = /home/lzb/Desktop/github/Public/vo-init/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/ORB-MVO.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/ORB-MVO.dir/flags.make
 
 CMakeFiles/ORB-MVO.dir/src/System.cpp.o: CMakeFiles/ORB-MVO.dir/flags.make
 CMakeFiles/ORB-MVO.dir/src/System.cpp.o: ../src/System.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/Desktop/gitee/ORB-MVO/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ORB-MVO.dir/src/System.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ORB-MVO.dir/src/System.cpp.o -c /home/lzb/Desktop/gitee/ORB-MVO/src/System.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/Desktop/github/Public/vo-init/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ORB-MVO.dir/src/System.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ORB-MVO.dir/src/System.cpp.o -c /home/lzb/Desktop/github/Public/vo-init/src/System.cpp
 
 CMakeFiles/ORB-MVO.dir/src/System.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ORB-MVO.dir/src/System.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lzb/Desktop/gitee/ORB-MVO/src/System.cpp > CMakeFiles/ORB-MVO.dir/src/System.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lzb/Desktop/github/Public/vo-init/src/System.cpp > CMakeFiles/ORB-MVO.dir/src/System.cpp.i
 
 CMakeFiles/ORB-MVO.dir/src/System.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ORB-MVO.dir/src/System.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lzb/Desktop/gitee/ORB-MVO/src/System.cpp -o CMakeFiles/ORB-MVO.dir/src/System.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lzb/Desktop/github/Public/vo-init/src/System.cpp -o CMakeFiles/ORB-MVO.dir/src/System.cpp.s
 
 CMakeFiles/ORB-MVO.dir/src/System.cpp.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/ORB-MVO.dir/src/System.cpp.o.provides.build: CMakeFiles/ORB-MVO.dir/s
 
 CMakeFiles/ORB-MVO.dir/src/Tracking.cpp.o: CMakeFiles/ORB-MVO.dir/flags.make
 CMakeFiles/ORB-MVO.dir/src/Tracking.cpp.o: ../src/Tracking.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/Desktop/gitee/ORB-MVO/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ORB-MVO.dir/src/Tracking.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ORB-MVO.dir/src/Tracking.cpp.o -c /home/lzb/Desktop/gitee/ORB-MVO/src/Tracking.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/Desktop/github/Public/vo-init/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ORB-MVO.dir/src/Tracking.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ORB-MVO.dir/src/Tracking.cpp.o -c /home/lzb/Desktop/github/Public/vo-init/src/Tracking.cpp
 
 CMakeFiles/ORB-MVO.dir/src/Tracking.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ORB-MVO.dir/src/Tracking.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lzb/Desktop/gitee/ORB-MVO/src/Tracking.cpp > CMakeFiles/ORB-MVO.dir/src/Tracking.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lzb/Desktop/github/Public/vo-init/src/Tracking.cpp > CMakeFiles/ORB-MVO.dir/src/Tracking.cpp.i
 
 CMakeFiles/ORB-MVO.dir/src/Tracking.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ORB-MVO.dir/src/Tracking.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lzb/Desktop/gitee/ORB-MVO/src/Tracking.cpp -o CMakeFiles/ORB-MVO.dir/src/Tracking.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lzb/Desktop/github/Public/vo-init/src/Tracking.cpp -o CMakeFiles/ORB-MVO.dir/src/Tracking.cpp.s
 
 CMakeFiles/ORB-MVO.dir/src/Tracking.cpp.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/ORB-MVO.dir/src/Tracking.cpp.o.provides.build: CMakeFiles/ORB-MVO.dir
 
 CMakeFiles/ORB-MVO.dir/src/ORBextractor.cpp.o: CMakeFiles/ORB-MVO.dir/flags.make
 CMakeFiles/ORB-MVO.dir/src/ORBextractor.cpp.o: ../src/ORBextractor.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/Desktop/gitee/ORB-MVO/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ORB-MVO.dir/src/ORBextractor.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ORB-MVO.dir/src/ORBextractor.cpp.o -c /home/lzb/Desktop/gitee/ORB-MVO/src/ORBextractor.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/Desktop/github/Public/vo-init/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ORB-MVO.dir/src/ORBextractor.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ORB-MVO.dir/src/ORBextractor.cpp.o -c /home/lzb/Desktop/github/Public/vo-init/src/ORBextractor.cpp
 
 CMakeFiles/ORB-MVO.dir/src/ORBextractor.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ORB-MVO.dir/src/ORBextractor.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lzb/Desktop/gitee/ORB-MVO/src/ORBextractor.cpp > CMakeFiles/ORB-MVO.dir/src/ORBextractor.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lzb/Desktop/github/Public/vo-init/src/ORBextractor.cpp > CMakeFiles/ORB-MVO.dir/src/ORBextractor.cpp.i
 
 CMakeFiles/ORB-MVO.dir/src/ORBextractor.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ORB-MVO.dir/src/ORBextractor.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lzb/Desktop/gitee/ORB-MVO/src/ORBextractor.cpp -o CMakeFiles/ORB-MVO.dir/src/ORBextractor.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lzb/Desktop/github/Public/vo-init/src/ORBextractor.cpp -o CMakeFiles/ORB-MVO.dir/src/ORBextractor.cpp.s
 
 CMakeFiles/ORB-MVO.dir/src/ORBextractor.cpp.o.requires:
 
@@ -131,16 +131,16 @@ CMakeFiles/ORB-MVO.dir/src/ORBextractor.cpp.o.provides.build: CMakeFiles/ORB-MVO
 
 CMakeFiles/ORB-MVO.dir/src/ORBmatcher.cpp.o: CMakeFiles/ORB-MVO.dir/flags.make
 CMakeFiles/ORB-MVO.dir/src/ORBmatcher.cpp.o: ../src/ORBmatcher.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/Desktop/gitee/ORB-MVO/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ORB-MVO.dir/src/ORBmatcher.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ORB-MVO.dir/src/ORBmatcher.cpp.o -c /home/lzb/Desktop/gitee/ORB-MVO/src/ORBmatcher.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/Desktop/github/Public/vo-init/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ORB-MVO.dir/src/ORBmatcher.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ORB-MVO.dir/src/ORBmatcher.cpp.o -c /home/lzb/Desktop/github/Public/vo-init/src/ORBmatcher.cpp
 
 CMakeFiles/ORB-MVO.dir/src/ORBmatcher.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ORB-MVO.dir/src/ORBmatcher.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lzb/Desktop/gitee/ORB-MVO/src/ORBmatcher.cpp > CMakeFiles/ORB-MVO.dir/src/ORBmatcher.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lzb/Desktop/github/Public/vo-init/src/ORBmatcher.cpp > CMakeFiles/ORB-MVO.dir/src/ORBmatcher.cpp.i
 
 CMakeFiles/ORB-MVO.dir/src/ORBmatcher.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ORB-MVO.dir/src/ORBmatcher.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lzb/Desktop/gitee/ORB-MVO/src/ORBmatcher.cpp -o CMakeFiles/ORB-MVO.dir/src/ORBmatcher.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lzb/Desktop/github/Public/vo-init/src/ORBmatcher.cpp -o CMakeFiles/ORB-MVO.dir/src/ORBmatcher.cpp.s
 
 CMakeFiles/ORB-MVO.dir/src/ORBmatcher.cpp.o.requires:
 
@@ -155,16 +155,16 @@ CMakeFiles/ORB-MVO.dir/src/ORBmatcher.cpp.o.provides.build: CMakeFiles/ORB-MVO.d
 
 CMakeFiles/ORB-MVO.dir/src/Frame.cpp.o: CMakeFiles/ORB-MVO.dir/flags.make
 CMakeFiles/ORB-MVO.dir/src/Frame.cpp.o: ../src/Frame.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/Desktop/gitee/ORB-MVO/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ORB-MVO.dir/src/Frame.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ORB-MVO.dir/src/Frame.cpp.o -c /home/lzb/Desktop/gitee/ORB-MVO/src/Frame.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/Desktop/github/Public/vo-init/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ORB-MVO.dir/src/Frame.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ORB-MVO.dir/src/Frame.cpp.o -c /home/lzb/Desktop/github/Public/vo-init/src/Frame.cpp
 
 CMakeFiles/ORB-MVO.dir/src/Frame.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ORB-MVO.dir/src/Frame.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lzb/Desktop/gitee/ORB-MVO/src/Frame.cpp > CMakeFiles/ORB-MVO.dir/src/Frame.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lzb/Desktop/github/Public/vo-init/src/Frame.cpp > CMakeFiles/ORB-MVO.dir/src/Frame.cpp.i
 
 CMakeFiles/ORB-MVO.dir/src/Frame.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ORB-MVO.dir/src/Frame.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lzb/Desktop/gitee/ORB-MVO/src/Frame.cpp -o CMakeFiles/ORB-MVO.dir/src/Frame.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lzb/Desktop/github/Public/vo-init/src/Frame.cpp -o CMakeFiles/ORB-MVO.dir/src/Frame.cpp.s
 
 CMakeFiles/ORB-MVO.dir/src/Frame.cpp.o.requires:
 
@@ -179,16 +179,16 @@ CMakeFiles/ORB-MVO.dir/src/Frame.cpp.o.provides.build: CMakeFiles/ORB-MVO.dir/sr
 
 CMakeFiles/ORB-MVO.dir/src/Initializer.cpp.o: CMakeFiles/ORB-MVO.dir/flags.make
 CMakeFiles/ORB-MVO.dir/src/Initializer.cpp.o: ../src/Initializer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/Desktop/gitee/ORB-MVO/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ORB-MVO.dir/src/Initializer.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ORB-MVO.dir/src/Initializer.cpp.o -c /home/lzb/Desktop/gitee/ORB-MVO/src/Initializer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/Desktop/github/Public/vo-init/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ORB-MVO.dir/src/Initializer.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ORB-MVO.dir/src/Initializer.cpp.o -c /home/lzb/Desktop/github/Public/vo-init/src/Initializer.cpp
 
 CMakeFiles/ORB-MVO.dir/src/Initializer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ORB-MVO.dir/src/Initializer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lzb/Desktop/gitee/ORB-MVO/src/Initializer.cpp > CMakeFiles/ORB-MVO.dir/src/Initializer.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lzb/Desktop/github/Public/vo-init/src/Initializer.cpp > CMakeFiles/ORB-MVO.dir/src/Initializer.cpp.i
 
 CMakeFiles/ORB-MVO.dir/src/Initializer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ORB-MVO.dir/src/Initializer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lzb/Desktop/gitee/ORB-MVO/src/Initializer.cpp -o CMakeFiles/ORB-MVO.dir/src/Initializer.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lzb/Desktop/github/Public/vo-init/src/Initializer.cpp -o CMakeFiles/ORB-MVO.dir/src/Initializer.cpp.s
 
 CMakeFiles/ORB-MVO.dir/src/Initializer.cpp.o.requires:
 
@@ -203,16 +203,16 @@ CMakeFiles/ORB-MVO.dir/src/Initializer.cpp.o.provides.build: CMakeFiles/ORB-MVO.
 
 CMakeFiles/ORB-MVO.dir/src/Converter.cpp.o: CMakeFiles/ORB-MVO.dir/flags.make
 CMakeFiles/ORB-MVO.dir/src/Converter.cpp.o: ../src/Converter.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/Desktop/gitee/ORB-MVO/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/ORB-MVO.dir/src/Converter.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ORB-MVO.dir/src/Converter.cpp.o -c /home/lzb/Desktop/gitee/ORB-MVO/src/Converter.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/Desktop/github/Public/vo-init/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/ORB-MVO.dir/src/Converter.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ORB-MVO.dir/src/Converter.cpp.o -c /home/lzb/Desktop/github/Public/vo-init/src/Converter.cpp
 
 CMakeFiles/ORB-MVO.dir/src/Converter.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ORB-MVO.dir/src/Converter.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lzb/Desktop/gitee/ORB-MVO/src/Converter.cpp > CMakeFiles/ORB-MVO.dir/src/Converter.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lzb/Desktop/github/Public/vo-init/src/Converter.cpp > CMakeFiles/ORB-MVO.dir/src/Converter.cpp.i
 
 CMakeFiles/ORB-MVO.dir/src/Converter.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ORB-MVO.dir/src/Converter.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lzb/Desktop/gitee/ORB-MVO/src/Converter.cpp -o CMakeFiles/ORB-MVO.dir/src/Converter.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lzb/Desktop/github/Public/vo-init/src/Converter.cpp -o CMakeFiles/ORB-MVO.dir/src/Converter.cpp.s
 
 CMakeFiles/ORB-MVO.dir/src/Converter.cpp.o.requires:
 
@@ -266,7 +266,7 @@ ORB__MVO_EXTERNAL_OBJECTS =
 ../lib/libORB-MVO.so: /usr/local/lib/libopencv_imgproc.so.3.4.8
 ../lib/libORB-MVO.so: /usr/local/lib/libopencv_core.so.3.4.8
 ../lib/libORB-MVO.so: CMakeFiles/ORB-MVO.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/lzb/Desktop/gitee/ORB-MVO/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX shared library ../lib/libORB-MVO.so"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/lzb/Desktop/github/Public/vo-init/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX shared library ../lib/libORB-MVO.so"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ORB-MVO.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -289,6 +289,6 @@ CMakeFiles/ORB-MVO.dir/clean:
 .PHONY : CMakeFiles/ORB-MVO.dir/clean
 
 CMakeFiles/ORB-MVO.dir/depend:
-	cd /home/lzb/Desktop/gitee/ORB-MVO/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/lzb/Desktop/gitee/ORB-MVO /home/lzb/Desktop/gitee/ORB-MVO /home/lzb/Desktop/gitee/ORB-MVO/build /home/lzb/Desktop/gitee/ORB-MVO/build /home/lzb/Desktop/gitee/ORB-MVO/build/CMakeFiles/ORB-MVO.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/lzb/Desktop/github/Public/vo-init/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/lzb/Desktop/github/Public/vo-init /home/lzb/Desktop/github/Public/vo-init /home/lzb/Desktop/github/Public/vo-init/build /home/lzb/Desktop/github/Public/vo-init/build /home/lzb/Desktop/github/Public/vo-init/build/CMakeFiles/ORB-MVO.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/ORB-MVO.dir/depend
 

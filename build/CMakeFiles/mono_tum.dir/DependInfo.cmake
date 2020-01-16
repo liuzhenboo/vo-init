@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/lzb/Desktop/gitee/ORB-MVO/Examples/Monocular/mono_tum.cpp" "/home/lzb/Desktop/gitee/ORB-MVO/build/CMakeFiles/mono_tum.dir/Examples/Monocular/mono_tum.cpp.o"
+  "/home/lzb/Desktop/github/Public/vo-init/Examples/Monocular/mono_tum.cpp" "/home/lzb/Desktop/github/Public/vo-init/build/CMakeFiles/mono_tum.dir/Examples/Monocular/mono_tum.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -24,7 +24,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/lzb/Desktop/gitee/ORB-MVO/build/CMakeFiles/ORB-MVO.dir/DependInfo.cmake"
+  "/home/lzb/Desktop/github/Public/vo-init/build/CMakeFiles/ORB-MVO.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

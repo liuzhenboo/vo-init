@@ -80,27 +80,27 @@ Initializer.h
 System.h
 ../include/System.h
 
-/home/lzb/Desktop/gitee/ORB-MVO/src/Converter.cpp
+/home/lzb/Desktop/github/Public/vo-init/src/Converter.cpp
 Converter.h
-/home/lzb/Desktop/gitee/ORB-MVO/src/Converter.h
+/home/lzb/Desktop/github/Public/vo-init/src/Converter.h
 
-/home/lzb/Desktop/gitee/ORB-MVO/src/Frame.cpp
+/home/lzb/Desktop/github/Public/vo-init/src/Frame.cpp
 Frame.h
-/home/lzb/Desktop/gitee/ORB-MVO/src/Frame.h
+/home/lzb/Desktop/github/Public/vo-init/src/Frame.h
 ORBmatcher.h
-/home/lzb/Desktop/gitee/ORB-MVO/src/ORBmatcher.h
+/home/lzb/Desktop/github/Public/vo-init/src/ORBmatcher.h
 thread
 -
 
-/home/lzb/Desktop/gitee/ORB-MVO/src/Initializer.cpp
+/home/lzb/Desktop/github/Public/vo-init/src/Initializer.cpp
 Initializer.h
-/home/lzb/Desktop/gitee/ORB-MVO/src/Initializer.h
+/home/lzb/Desktop/github/Public/vo-init/src/Initializer.h
 ORBmatcher.h
-/home/lzb/Desktop/gitee/ORB-MVO/src/ORBmatcher.h
+/home/lzb/Desktop/github/Public/vo-init/src/ORBmatcher.h
 thread
 -
 
-/home/lzb/Desktop/gitee/ORB-MVO/src/ORBextractor.cpp
+/home/lzb/Desktop/github/Public/vo-init/src/ORBextractor.cpp
 opencv2/core/core.hpp
 -
 opencv2/highgui/highgui.hpp
@@ -114,13 +114,13 @@ vector
 iterator
 -
 ORBextractor.h
-/home/lzb/Desktop/gitee/ORB-MVO/src/ORBextractor.h
+/home/lzb/Desktop/github/Public/vo-init/src/ORBextractor.h
 iostream
 -
 
-/home/lzb/Desktop/gitee/ORB-MVO/src/ORBmatcher.cpp
+/home/lzb/Desktop/github/Public/vo-init/src/ORBmatcher.cpp
 ORBmatcher.h
-/home/lzb/Desktop/gitee/ORB-MVO/src/ORBmatcher.h
+/home/lzb/Desktop/github/Public/vo-init/src/ORBmatcher.h
 limits.h
 -
 opencv2/core/core.hpp
@@ -130,9 +130,9 @@ opencv2/features2d/features2d.hpp
 stdint.h
 -
 
-/home/lzb/Desktop/gitee/ORB-MVO/src/System.cpp
+/home/lzb/Desktop/github/Public/vo-init/src/System.cpp
 System.h
-/home/lzb/Desktop/gitee/ORB-MVO/src/System.h
+/home/lzb/Desktop/github/Public/vo-init/src/System.h
 thread
 -
 iostream
@@ -140,19 +140,19 @@ iostream
 iomanip
 -
 
-/home/lzb/Desktop/gitee/ORB-MVO/src/Tracking.cpp
+/home/lzb/Desktop/github/Public/vo-init/src/Tracking.cpp
 Tracking.h
-/home/lzb/Desktop/gitee/ORB-MVO/src/Tracking.h
+/home/lzb/Desktop/github/Public/vo-init/src/Tracking.h
 opencv2/core/core.hpp
 -
 opencv2/features2d/features2d.hpp
 -
 ORBmatcher.h
-/home/lzb/Desktop/gitee/ORB-MVO/src/ORBmatcher.h
+/home/lzb/Desktop/github/Public/vo-init/src/ORBmatcher.h
 Converter.h
-/home/lzb/Desktop/gitee/ORB-MVO/src/Converter.h
+/home/lzb/Desktop/github/Public/vo-init/src/Converter.h
 Initializer.h
-/home/lzb/Desktop/gitee/ORB-MVO/src/Initializer.h
+/home/lzb/Desktop/github/Public/vo-init/src/Initializer.h
 iostream
 -
 cmath
