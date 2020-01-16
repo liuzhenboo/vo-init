@@ -3,7 +3,7 @@
 思想：双线程同时计算F和H模型，然后根据评分机制选择最优的模型
 
 # 运行程序
-需要tum数据集，具体路径根据自己电脑而定：
+需要提前下载tum数据集rgbd_dataset_freiburg1_desk：
 
     cd build
     cmake ..
