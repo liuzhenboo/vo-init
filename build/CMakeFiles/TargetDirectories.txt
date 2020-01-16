@@ -1,4 +1,0 @@
-/home/lzb/Desktop/github/Public/vo-init/build/CMakeFiles/rebuild_cache.dir
-/home/lzb/Desktop/github/Public/vo-init/build/CMakeFiles/edit_cache.dir
-/home/lzb/Desktop/github/Public/vo-init/build/CMakeFiles/ORB-MVO.dir
-/home/lzb/Desktop/github/Public/vo-init/build/CMakeFiles/mono_tum.dir
