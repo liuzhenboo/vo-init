@@ -1,7 +1,7 @@
 # vo-init
 
 思想：双线程同时计算F和H模型，然后根据评分机制选择最优的模型
-
+liuzhenbo
 # 运行程序
 需要提前下载tum数据集rgbd_dataset_freiburg1_desk：
 
